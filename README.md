@@ -105,7 +105,7 @@ The project includes a fun "Easter egg" inspired by the Chrome Dino game.
 * Avinash Dwivedi
 * Piyush Singh
 * Shriya Sharma
-* Abhay Khushwaha
+* Abhay Kushwaha
 
 ---
 *Disclaimer: This is an educational prototype. Always use certified safety equipment for real-world industrial applications.*
